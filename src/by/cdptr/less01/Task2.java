@@ -1,6 +1,6 @@
-package by.epam.kos.testproject;
+package by.cdptr.less01;
 
-public class Fio {
+public class Task2 {
     public static void main(String[] args){
         String newLine = System.getProperty("line.separator");
         String SecondName = "Жапнов ";
